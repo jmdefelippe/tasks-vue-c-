@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backend-tareas", "backend-tareas\backend-tareas.csproj", "{2F315E7B-D0A5-4864-A971-15D33E3EBF53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F315E7B-D0A5-4864-A971-15D33E3EBF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F315E7B-D0A5-4864-A971-15D33E3EBF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F315E7B-D0A5-4864-A971-15D33E3EBF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F315E7B-D0A5-4864-A971-15D33E3EBF53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97623543-2717-49A3-900E-2C4EBD879E18}
+	EndGlobalSection
+EndGlobal
